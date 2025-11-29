@@ -1,0 +1,4 @@
+catboost_info/
+lstm_tuning/
+__pycache__/
+.vscode/
