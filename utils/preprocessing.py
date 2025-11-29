@@ -1,6 +1,4 @@
 import nltk
-from nltk.corpus import stopwords
-nltk.download('stopwords')
 import pickle
 import numpy as np
 import emoji
