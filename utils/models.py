@@ -6,6 +6,5 @@ def load_assets():
     with open('assets/tokenizer.pickle', 'rb') as handle:
         tokenizer = pickle.load(handle)
     
-
     return model, tokenizer
 
