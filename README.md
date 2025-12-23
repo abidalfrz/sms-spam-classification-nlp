@@ -1,6 +1,6 @@
 # 📩 SMS Spam Detection
 
-The repository contains a web application that detects whether an SMS message is spam or not, specifically tailored for the Indonesian language. Built using Streamlit, the application integrates a trained LSTM (Long Short-Term Memory) model to provide accurate classifications and confidence scores.
+The repository contains a Machine Learning-based web application that detects whether an SMS message is spam or not, specifically tailored for the Indonesian language. Built using Streamlit, the application integrates a trained LSTM (Long Short-Term Memory) model to provide accurate classifications and confidence scores.
 
 ---
 
