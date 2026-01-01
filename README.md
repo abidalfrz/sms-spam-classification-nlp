@@ -17,14 +17,20 @@ The repository contains a Machine Learning-based web application that detects wh
 
 ## 🛠️ Tech Stack
 
-- **Python**
-- **Streamlit**
-- **TensorFlow / Keras** 
-- **Pandas**
-- **NumPy**
-- **Plotly Express**
-- **Gensim** (Word2Vec)
-- **Scikit-learn**
+### Frontend:
+
+- **Language**: Python
+- **Framework**: Streamlit
+
+### Data Science & ML:
+
+- **Data Handling**: Pandas
+- **Numerical Computing**: NumPy
+- **Data Visualization**: Plotly, Wordcloud
+- **Text Processing**: NLTK, Sastrawi, Gensim
+- **Machine Learning Algorithms**: scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deep Learning Frameworks**: TensorFlow / Keras
+- **Hyperparameter Tuning**: Keras-Tuner
 
 ---
 
